@@ -8,7 +8,7 @@ body[
     font-size: 20px;
     color:black
 }
-#titulo{text-align: center;
+#Aves{text-align: center;
     font-size: 30px;
     color: rgb(0, 153, 255);
 }
@@ -18,5 +18,5 @@ body[
 }
 .titulo{
     [background-color: linear-gradient(#EEE8AA, #D8BFD8);
-    color: white;
+    color: rgb(255, 255, 255)
 ]

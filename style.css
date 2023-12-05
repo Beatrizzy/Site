@@ -11,6 +11,6 @@ ll.texto{
     color:rgb(92, 119, 96)7, 157);
 }
 .titulo{
-    background-color: linear-gradient(#ffffff, #28834f);
+    background-color: linear-gradient(#28834f, #ffffff);
     color: white;
 }

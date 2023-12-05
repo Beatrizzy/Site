@@ -6,9 +6,9 @@
     font-size: 30px;
     color: rgba(8, 131, 38, 0.651);
 }
-ll.texto{
-    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(18, 131, 38, 0.65));
-    color:rgb(92, 119, 96)7, 157);
+.texto{
+    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(232, 241, 234, 0.65));
+    color:rgb(219, 231, 221)7, 157);
 }
 .titulo{
     background-color: linear-gradient(#28834f, #ffffff);
